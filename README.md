@@ -1,4 +1,4 @@
-#LLM-TWEEP Classifier : Using Gemini and GPT to Classify Tweepfake Tweets 
+# LLM-TWEEP Classifier : Using Gemini and GPT to Classify Tweepfake Tweets 
 
 
 ## Overview
